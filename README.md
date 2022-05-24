@@ -1,0 +1,1 @@
+# Stack: React, TypeScript, Redux

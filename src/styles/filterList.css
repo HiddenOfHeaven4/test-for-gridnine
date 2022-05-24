@@ -1,0 +1,20 @@
+.filter_List {
+    width: 20%;
+}
+
+.filterList__input {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.filterList__input:last-of-type {
+    margin: 0;
+}
+
+.input {
+    border-radius: 5px;
+}
+
+.label {
+    margin-right: 5px;
+}

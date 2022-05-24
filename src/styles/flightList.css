@@ -1,0 +1,16 @@
+.flightList {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.showMoreBtn {
+    width: 250px;
+    height: 25px;
+    cursor: pointer;
+    margin-bottom: 30px;
+    border-radius: 0;
+    
+    
+}

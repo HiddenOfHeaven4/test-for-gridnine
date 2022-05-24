@@ -1,0 +1,15 @@
+.filterTitle {
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 40px;
+}
+
+.filterItem {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.filterButton {
+    margin-right: 3px;
+}
+
